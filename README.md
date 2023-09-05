@@ -9,3 +9,10 @@ Kerala is one of the prominent **tourist destinations of India**, with **coconut
 <li>Then we can visit Kerala-Backwaters where we can spend good time in the house boat.</li>
 <li>The next activity we can do is to go to Tea Gardens which are the main attractions in and around Munnar.</li>
 </ol>
+<hr></hr>
+<h3>List of Dishes that we can get at Kerala</h3>
+<ul> 
+<li> Puttu and Kadala Curry.</li>
+<li> Appam with Stew </li>
+<li> Idiyappam.</li>
+</ul>
