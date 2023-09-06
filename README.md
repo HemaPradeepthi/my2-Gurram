@@ -15,3 +15,4 @@ Kerala is one of the prominent **tourist destinations of India**, with **coconut
 * Appam with stew
 * Idiyappam
 
+click [MyStats](MyStats.md) to view MyStats
