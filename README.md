@@ -29,3 +29,11 @@ click [MyStats](MyStats.md) to view MyStats
 | football |  teaches cooperation and team work, helps develop positive social skills | 5-6 hours |
 | Hockey | helps Develop leadership skills, discipline and teamwork in the players | 5-6 hours |
 
+***
+
+# Pithy Quotes
+> “Everything is theoretically impossible until it is done.” – *Robert A. Heinleinr*
+
+>“An expert is a person who has made all the mistakes that can be made in a very narrow field.” – *Neils Bohr*
+
+>“Science is organized knowledge. Wisdom is organized life.” – *Immanuel Kant* 
