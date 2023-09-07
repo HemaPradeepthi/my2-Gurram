@@ -36,4 +36,26 @@ click [MyStats](MyStats.md) to view MyStats
 
 >“An expert is a person who has made all the mistakes that can be made in a very narrow field.” – *Neils Bohr*
 
->“Science is organized knowledge. Wisdom is organized life.” – *Immanuel Kant* 
+>“Science is organized knowledge. Wisdom is organized life.” – *Immanuel Kant*
+
+***
+
+## Code fencing
+
+> How to strip HTML tags from string in JavaScript? 
+
+[click here for stack overflow]( https://stackoverflow.com/questions/5002111/how-to-strip-html-tags-from-string-in-javascript)
+```
+const originalString = `
+  <div>
+    <p>Hey that's <span>somthing</span></p>
+  </div>
+`;
+
+const strippedString = originalString.replace(/(<([^>]+)>)/gi, "");
+
+console.log(strippedString);
+
+```
+
+[click here for answer](https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/)
